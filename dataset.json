@@ -1,0 +1,164 @@
+{
+  "categories": {
+    "festival": {
+      "valid_domain": [
+        "Outdoor music festival",
+        "City-wide celebration",
+        "Rock concert",
+        "Film festival",
+        "Jazz festival",
+        "Food and wine festival",
+        "Cultural heritage festival",
+        "Electronic dance music (EDM) festival",
+        "Street art festival",
+        "Indie music festival"
+      ],
+      "invalid_domain": [
+        "Work meeting",
+        "Study session",
+        "Professional networking event",
+        "Corporate training",
+        "Finance seminar",
+        "Academic lecture",
+        "Technical workshop"
+      ]
+    },
+    "sporting event": {
+      "valid_domain": [
+        "Ligue 1 football match",
+        "Tennis tournament",
+        "Marathon race",
+        "Swimming competition",
+        "Professional basketball game",
+        "Car rally",
+        "Cycling race",
+        "Olympic qualifiers",
+        "Boxing championship",
+        "Cricket world cup match"
+      ],
+      "invalid_domain": [
+        "Movie screening",
+        "Family reunion",
+        "Art festival",
+        "Painting workshop",
+        "Charity dinner",
+        "Poetry reading",
+        "Board game night"
+      ]
+    },
+    "family meal": {
+      "valid_domain": [
+        "Sunday lunch with family",
+        "Christmas dinner",
+        "Birthday family gathering",
+        "Family wedding meal",
+        "Family brunch",
+        "Family picnic",
+        "Thanksgiving dinner",
+        "Easter breakfast with relatives",
+        "Mother’s Day lunch",
+        "Casual weeknight dinner with parents"
+      ],
+      "invalid_domain": [
+        "Work seminar",
+        "Music festival",
+        "Golf tournament",
+        "Rock concert",
+        "Office outing",
+        "Startup pitch night",
+        "Conference keynote"
+      ]
+    },
+    "outing with friends": {
+      "valid_domain": [
+        "Movie outing with friends",
+        "Dinner with friends",
+        "Afternoon in the park with friends",
+        "Weekend trip with friends",
+        "Board game night with friends",
+        "Brunch with friends",
+        "Camping trip with friends",
+        "Escape room adventure",
+        "Karaoke night",
+        "Bowling evening"
+      ],
+      "invalid_domain": [
+        "Professional meeting",
+        "Solo workout session",
+        "Corporate conference",
+        "Study session",
+        "Family reunion",
+        "Parent-teacher meeting"
+      ]
+    },
+    "party/night out": {
+      "valid_domain": [
+        "Nightclub party",
+        "Birthday party",
+        "Karaoke night",
+        "Pajama party",
+        "Dance night",
+        "New Year’s Eve party",
+        "Graduation celebration",
+        "Bachelorette party",
+        "Costume party",
+        "Open mic night"
+      ],
+      "invalid_domain": [
+        "Business seminar",
+        "Basketball match",
+        "Academic conference",
+        "Work meeting",
+        "Business breakfast",
+        "Investor presentation",
+        "Technical briefing"
+      ]
+    },
+    "ceremony": {
+      "valid_domain": [
+        "Wedding",
+        "Baptism",
+        "Graduation ceremony",
+        "Memorial service",
+        "Inauguration ceremony",
+        "Religious ceremony",
+        "Award ceremony",
+        "Retirement ceremony",
+        "Citizenship ceremony",
+        "Military promotion ceremony"
+      ],
+      "invalid_domain": [
+        "Friends' outing",
+        "Music festival",
+        "Business meeting",
+        "Movie night",
+        "Rock concert",
+        "Cooking class",
+        "Escape room with friends"
+      ]
+    },
+    "car gathering": {
+      "valid_domain": [
+        "Auto show",
+        "Classic car meetup",
+        "Sports car exhibition",
+        "Motorcycle rally",
+        "Vintage car race",
+        "Collector car parade",
+        "Electric vehicle expo",
+        "Street racing showcase",
+        "4x4 off-road gathering",
+        "Custom car unveiling"
+      ],
+      "invalid_domain": [
+        "Health conference",
+        "Family dinner",
+        "Art festival",
+        "Movie screening",
+        "Dinner with friends",
+        "Yoga class",
+        "Business panel discussion"
+      ]
+    }
+  }
+}
